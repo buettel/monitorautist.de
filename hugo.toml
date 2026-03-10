@@ -1,0 +1,8 @@
+baseURL = 'https://monitorautist.de/'
+languageCode = 'de-de'
+title = 'Monitorautist'
+[markup.highlight]
+noclasses = false
+style = "github"
+[[module.imports]]
+path = "github.com/willfaught/paige"
